@@ -1,2 +1,0 @@
-# CSDA
-Code for practice
