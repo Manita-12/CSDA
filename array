@@ -1,0 +1,19 @@
+#include<cs50.h>
+#include<stdio.h>
+
+int main()
+{
+    int n = get_int("Enter the size of the array: ");// store n
+    printf
+    scanf
+    int array[n];
+    for(int i=0; i<n; i++)// (i=1; i<=n; i++)
+    {
+        array[i] = get_int("Enter element %i: ",i+1);
+    }
+    for (int i=0; i<n; i++)//for printing an element again; (i=1; i<=n; i++)
+    {
+        printf("%i ", array[i]);
+    }
+    printf("\n");
+}
